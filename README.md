@@ -5,12 +5,10 @@
   <h1 align="center">Hi there, I'm Senith Umesha <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="33px" /></h1> 
 </div>
 <h3 align="center">A passionate undergraduate!</h3>
-<br/><br/>
 
 ## 🌱 I’m currently learning ...
 - **Software Engineering**
 <br/>
-  <br/>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackEyedGhouL&count_private=true&theme=dark&show_icons=true" alt="BlackEyedGhouL's Github Stats">
