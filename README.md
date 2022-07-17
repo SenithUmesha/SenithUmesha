@@ -2,7 +2,7 @@
 <img src="assets\banner.png" />
 </p>
 
-<h3 align="center">I'm an undergraduate currently living in Sri Lanka. I spend my free time building cool projects and learning programming languages.</h3>
+<p align="center">I'm an undergraduate currently living in Sri Lanka. I spend my free time building cool projects and learning programming languages.</p>
 
 <br>
 
