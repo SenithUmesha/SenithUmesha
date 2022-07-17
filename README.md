@@ -1,17 +1,50 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" />
+<img src="assets\banner.png" />
 </p>
-<div align="center">
-  <h1 align="center">Hi there, I'm Senith Umesha <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="33px" /></h1> 
-</div>
-<h3 align="center">A passionate undergraduate!</h3>
 
-## 🌱 I’m currently learning ...
-- **Software Engineering**
+<h1 align="center">
+  <b></b>
+</h1>
 
+I'm an undergraduate currently living in Sri Lanka. I spend my free time building cool projects and learning programming languages. 
+
+<br>
+
+<p>
 <div align="center">
-  <h3 align="center">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=282828">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=282828">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=0095D5&labelColor=282828">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=282828">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=282828">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4&labelColor=282828">
 </div>
-<p align="center">
-<a href="https://linkedin.com/in/senith-umesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senith-umesha" height="30" width="40" /></a>
 </p>
+
+<br/>
+
+<h2 align="center"><b>My Statistics 📈</b></h2>
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BlackEyedGhouL&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackEyedGhouL&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
+![Senith Umesha' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BlackEyedGhouL&custom_title=Senith%20Umesha's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+<br>
+<h2 align="center"><b>Profile Visitor Count 👀</b></h2>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/BlackEyedGhouL/count.svg" />
+</p>
+
+<br>
+<h2 align="center"><b>Connect with me 🤝🏻</b></h2>
+
+<div align="center">
+	
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/senith-umesha/) [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/15165638/senith-umesha)
+	
+</div>
