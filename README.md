@@ -6,7 +6,7 @@
   <b></b>
 </h1>
 
-I'm an undergraduate currently living in Sri Lanka. I spend my free time building cool projects and learning programming languages. 
+<h3 align="center">I'm an undergraduate currently living in Sri Lanka. I spend my free time building cool projects and learning programming languages.</h3>
 
 <br>
 
@@ -48,3 +48,8 @@ I'm an undergraduate currently living in Sri Lanka. I spend my free time buildin
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/senith-umesha/) [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/15165638/senith-umesha)
 	
 </div>
+
+<br>
+<p align="center">
+<img src="https://github.com/BlackEyedGhouL/BlackEyedGhouL/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
