@@ -35,8 +35,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=282828" />](https://www.linkedin.com/in/senith-umesha/) 
 	
 </div>
-
-<br>
-<p align="center">
-<img src="https://github.com/BlackEyedGhouL/BlackEyedGhouL/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
