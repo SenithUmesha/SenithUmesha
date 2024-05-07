@@ -21,7 +21,7 @@
 <h2 align="center"><b>Profile Visitor Count 👀</b></h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/BlackEyedGhouL/count.svg" />
+  <img src="https://profile-counter.glitch.me/SenithUmesha/count.svg" />
 </p>
 
 <br>
@@ -48,5 +48,5 @@
 <h2 align="center"><b>Contributions Graph 📈</b></h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackEyedGhouL/BlackEyedGhouL/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SenithUmesha/SenithUmesha/output/snake.svg" alt="Snake animation" />
 </p>
