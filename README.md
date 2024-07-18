@@ -5,7 +5,6 @@
 - 👨‍💻 A Mobile Developer from Galle, Sri Lanka.
 - 👀 Interested in all the things I haven't learnt.
 - 📂 All of my projects are available at https://senithumesha.github.io/
-- 🌱 Currently learning Cordova.
 
 ### 🛠️ Toolbox:
 
