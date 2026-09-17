@@ -17,22 +17,22 @@ senith@github ~ % status
 
 ## currently cooking
 
-### 🍎 [SetWise](https://github.com/SenithUmesha/setwise-app)
+### [SetWise](https://github.com/SenithUmesha/setwise-app)
 native iOS workout + recovery companion.
 
 `SwiftUI` · `SwiftData` · `WidgetKit` · `App Intents`
 
-### 📈 [BetterTrade](https://github.com/SenithUmesha/bettertrade-app)
+### [BetterTrade](https://github.com/SenithUmesha/bettertrade-app)
 started as a trade journal. got slightly out of hand.
 
 `Flutter` · `Riverpod` · `Firebase` · `Cloudflare`
 
-### 📦 [Orderly](https://github.com/SenithUmesha/orderly-app)
+### [Orderly](https://github.com/SenithUmesha/orderly-app)
 offline-first order tracking for small businesses.
 
 `Flutter` · `Drift / SQLite` · `Firebase`
 
-### 📖 [TaleCraft](https://github.com/SenithUmesha/talecraft)
+### [TaleCraft](https://github.com/SenithUmesha/talecraft)
 branching stories + voice + hand gestures, because tapping choices was apparently too normal.
 
 `Flutter` · `MediaPipe` · `OpenAI`
