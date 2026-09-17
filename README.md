@@ -22,7 +22,7 @@ native iOS workout + recovery companion.
 
 `SwiftUI` · `SwiftData` · `WidgetKit` · `App Intents`
 
-### 📈 BetterTrade
+### 📈 [BetterTrade](https://github.com/SenithUmesha/bettertrade-app)
 started as a trade journal. got slightly out of hand.
 
 `Flutter` · `Riverpod` · `Firebase` · `Cloudflare`
