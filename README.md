@@ -17,7 +17,7 @@ senith@github ~ % status
 
 ## currently cooking
 
-### 🍎 SetWise
+### 🍎 [SetWise](https://github.com/SenithUmesha/setwise-app)
 native iOS workout + recovery companion.
 
 `SwiftUI` · `SwiftData` · `WidgetKit` · `App Intents`
