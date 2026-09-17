@@ -27,7 +27,7 @@ started as a trade journal. got slightly out of hand.
 
 `Flutter` · `Riverpod` · `Firebase` · `Cloudflare`
 
-### 📦 Orderly
+### 📦 [Orderly](https://github.com/SenithUmesha/orderly-app)
 offline-first order tracking for small businesses.
 
 `Flutter` · `Drift / SQLite` · `Firebase`
