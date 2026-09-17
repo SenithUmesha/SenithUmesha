@@ -33,7 +33,7 @@ offline-first order tracking for small businesses.
 `Flutter` · `Drift / SQLite` · `Firebase`
 
 ### 📖 [TaleCraft](https://github.com/SenithUmesha/talecraft)
-AI stories + voice + hand gestures, because why not.
+branching stories + voice + hand gestures, because tapping choices was apparently too normal.
 
 `Flutter` · `MediaPipe` · `OpenAI`
 
