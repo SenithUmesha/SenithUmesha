@@ -33,11 +33,6 @@ offline-first order tracking for small businesses, with customer follow-up, paym
 
 `Flutter` · `Drift / SQLite` · `Firebase`
 
-### [FreeFindsHub](https://freefindshub.com/)
-SEO-first discovery site for useful free software, resources, templates, gaming finds, career tools, and other genuinely free stuff.
-
-`Astro` · `TypeScript` · `Cloudflare Workers` · `GitHub Actions`
-
 ### [TaleCraft](https://github.com/SenithUmesha/talecraft)
 branching stories + voice + hand gestures, because tapping choices was apparently too normal.
 
